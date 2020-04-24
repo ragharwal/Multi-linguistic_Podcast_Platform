@@ -2,11 +2,11 @@
   The Project will be launched on a Web based Application.
 ### 3. Goals and Scope – 
 #### 3.1 1st Priority Aims –
-   * Register through already existing accounts.
-   * Interface to upload podcasts.
-   * A well-designed podcast player. 
+   * Register through already existing accounts
+   * Interface to upload podcasts
+   * A well-designed podcast player
    * Multi Linguistic Website
-   * Conversion of Podcast into required language on live basis.
+   * Live Translation of podcast using cloud
 #### 3.2 Other Aims - 
    * Users should be able to like and comment on any podcast.
    * Each user can have his/her profile picture and some details.
