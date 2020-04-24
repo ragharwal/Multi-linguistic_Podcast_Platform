@@ -6,7 +6,7 @@
    * Interface to upload podcasts
    * A well-designed podcast player
    * Multi Linguistic Website
-   * Live Translation of podcast using cloud
+   * Live Translation of podcast on cloud
 #### 3.2 Other Aims - 
    * Users should be able to like and comment on any podcast.
    * Each user can have his/her profile picture and some details.
