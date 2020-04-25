@@ -6,7 +6,7 @@ G3
 ------------------------------------------------------------
 ## 4. Deliverables:
 
-1.	External Deliverables: (The output of development that will fetch us revenue and will be available to the target audience.)
+**1.	External Deliverables**: (The output of development that will fetch us revenue and will be available to the target audience.)
 
 •	A mobile application that will provide you with your favorite podcasts in your preferred language, on the go.
 
@@ -22,7 +22,7 @@ G3
 
 •	An option to favorite the desired podcasts and share them with your friends across various social media platforms.
 
-2.	Internal Deliverables: (All the paraphernalia required during development.)
+**2.	Internal Deliverables**: (All the paraphernalia required during development.)
 
 •	Feature specification
 
