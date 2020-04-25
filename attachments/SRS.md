@@ -1,6 +1,10 @@
-# This is a template of Software Requirement Specification
-
-Deliverables:
+G1
+------
+G2
+------
+G3
+------------------------------------------------------------
+## 4. Deliverables:
 
 1.	External Deliverables: (The output of development that will fetch us revenue and will be available to the target audience.)
 
@@ -20,8 +24,7 @@ Deliverables:
 •	Development document
 •	Source code
 
-
-Risk Management:
+## 5. Risk Management:
 
 Our podcast platform is sure to outpace the existing ones because it features translating the existing podcasts into the user-preferred language.
 Still, there lies a risk of keeping users engaged with our platform and attract their attention every time they need to listen to a podcast, while stuck in traffic on their way to work/home, or before plunging into their beds. While having a shower or while cooking in the kitchen.
