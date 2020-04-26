@@ -84,73 +84,63 @@ Everyone. Anyone can use this application ranging from a kid to an old-age perso
 
 - Settings
     -   *User Profile Settings*
-    -	*Choose between the Dark and Light theme*
+    -   *Choose between the Dark and Light theme*
     -   *Contact (can send application related query)*
     -   *Logout*
 
-
 P.S.  Italic points features can be modified later.
 
-### 2.3 Platform –
-  The Project will be launched on a Web based Application.
+### 2.3 Platform:
+We are aiming to launch this product on a Web based Application.
+  
+### 2.4 Development Responsibility:
+
+We, the team of UsoC2020, would be developing the software and we are responsible for the creation and maintainence of this project.
 
 ## 3. Goals and Scope:
 
 ### 3.1 1st Priority Aims:
-
-   * Register through already existing accounts
-   * Interface to upload podcasts
-   * A well-designed podcast player
-   * Multi Linguistic Website
-   * Live Translation of podcast on cloud
+   - Register through already existing accounts
+   - Interface to upload podcasts
+   - A well-designed podcast player
+   - Multi Linguistic Website
+   - Live Translation of podcast on cloud
 
 ### 3.2 Other Aims:
-   
-   * Users should be able to like and comment on any podcast.
-   * Each user can have his/her profile picture and some details.
-   * Users can follow their favourite podcast channels.
-   * Tag system wherein a podcast can be categorized into different genres.
-   * Play History
-   * Users can make their own Playlists
-   * Share podcast
-   * Recommendations based on history and tags of interest
+  
+   - Users should be able to like and comment on any podcast.
+   - Each user can have his/her profile picture and some details.
+   - Users can follow their favourite podcast channels.
+   - Tag system wherein a podcast can be categorized into different genres.
+   - Play History
+   - Users can make their own Playlists
+   - Share podcast
+   - Recommendations based on history and tags of interest
 
 ###  3.3 Future Scopes:
    
-   * Users can record and make Podcast with a podcast maker
-   * Ad Revenue system
-   * Explore money making possibilities for podcast channels.
+   - Users can record and make Podcast with a podcast maker
+   - Ad Revenue system
+   - Explore money making possibilities for podcast channels.
    
 
 ## 4. Deliverables:
 
 **1.	External Deliverables**: (The output of development that will fetch us revenue and will be available to the target audience.)
-
-•	A mobile application that will provide you with your favorite podcasts in your preferred language, on the go.
-
-•	Log in through Google/Facebook account.
-
-•	An interface that allows you to toggle between various categorized views (i.e. according to artists and genres).
-
-•	A simple yet crisp UI that lets you choose between podcasts and create your library giving an option to choose from thousands of podcasts that are streaming.
-
-•	Subscribe to channels to get notifications whenever there is a new podcast.
-
-•	Switching between languages, changing playback speed while listening to a podcast needs to be smooth.
-
-•	An option to favorite the desired podcasts and share them with your friends across various social media platforms.
+-	A mobile application that will provide you with your favorite podcasts in your preferred language, on the go.
+-	Log in through Google/Facebook account.
+-	An interface that allows you to toggle between various categorized views (i.e. according to artists and genres).
+-	A simple yet crisp UI that lets you choose between podcasts and create your library giving an option to choose from thousands of podcasts that are streaming.
+-	Subscribe to channels to get notifications whenever there is a new podcast.
+-	Switching between languages, changing playback speed while listening to a podcast needs to be smooth.
+-	An option to favorite the desired podcasts and share them with your friends across various social media platforms.
 
 **2.	Internal Deliverables**: (All the paraphernalia required during development.)
-
-•	Feature specification
-
-•	Product design
-
-•	Test plan
-
-•	Development document
-
-•	Source code
+-	Feature specification
+-	Product design
+-	Test plan
+-	Development document
+-	Source code
 
 ## 5. Risk Management:
 
