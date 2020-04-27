@@ -17,17 +17,17 @@ Everyone. Anyone can use this application ranging from a kid to an old-age perso
 
 ### 2.2 Functionality
 
--   *It will be a podcast streaming application where user can listen current streaming podcast in their own 
+-   *It will be a podcast streaming application where user can listen current streaming podcast in their own
      preferred language*.
 
--   *There will be a dashboard for recording, uploading, translation and downloading the podcast in their own 
-     preferred language*. 
+-   *There will be a dashboard for recording, uploading, translation and downloading the podcast in their own
+     preferred language*.
 
 -   *Users should be able to Sign up and Login through their accounts*.
 
 -   *Can login using their already existing accounts of Google/Facebook*.
 
--   *The non-native speaker podcast would be recorded into the device containing app by the in-built 
+-   *The non-native speaker podcast would be recorded into the device containing app by the in-built
      microphone*.
 
 -   *New episodes published by podcasts are updated automatically*.
@@ -48,7 +48,7 @@ Everyone. Anyone can use this application ranging from a kid to an old-age perso
     -   *Also, the database needs to be updated frequently by the user by connecting the device containing app to any computer and      looking for updates*
 
 
-- Dashboard Library 
+- Dashboard Library
     -   *User will have the list of all his uploaded and recorded podcast*
     -   *User will have the list of all his translated and downloaded podcast*
     -   *User can create playlist for translated podcast*
@@ -102,7 +102,7 @@ P.S.  Italic points features can be modified later.
 
 ### 2.3 Platform:
 We are aiming to launch this product on a Web based Application.
-  
+
 ### 2.4 Development Responsibility:
 
 We, the team of UsoC2020, would be developing the software and we are responsible for the creation and maintainence of this project.
@@ -117,7 +117,7 @@ We, the team of UsoC2020, would be developing the software and we are responsibl
    - Live Translation of podcast on cloud
 
 ### 3.2 Other Aims:
-  
+
    - Users should be able to like and comment on any podcast.
    - Each user can have his/her profile picture and some details.
    - Users can follow their favourite podcast channels.
@@ -128,11 +128,11 @@ We, the team of UsoC2020, would be developing the software and we are responsibl
    - Recommendations based on history and tags of interest
 
 ###  3.3 Future Scopes:
-   
+
    - Users can record and make Podcast with a podcast maker
    - Ad Revenue system
    - Explore money making possibilities for podcast channels.
-   
+
 
 ## 4. Deliverables:
 
