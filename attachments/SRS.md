@@ -1,4 +1,4 @@
-# Multi-linguistic_Podcast_Platform
+# Project Plan: Multi-linguistic_Podcast_Platform
 
 ## 1. Introduction
 
