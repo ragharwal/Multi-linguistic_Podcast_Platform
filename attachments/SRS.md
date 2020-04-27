@@ -1,6 +1,16 @@
+# Project Plan: Multi-linguistic_Podcast_Platform
 
-G1
-------
+## 1. Introduction
+
+This document lays out a project plan for the development of “Multi-linguistic_Podcast_Platform” open source repository system by USoC2020 Organization. 
+
+The intended readers of this document are current and future developers working on “Multi-linguistic_Podcast_Platform” and the sponsors of the project. The plan will include, but is not restricted to, a summary of the system functionality, the scope of the project from the perspective of the “Multi-linguistic_Podcast_Platform” team, scheduling and delivery estimates, project risks and how those risks will be mitigated, the process by which I will develop the project, and metrics and measurements that will be recorded throughout the project.
+
+## 2. Overview
+
+Generally, the podcasts are available only in a single language, like the books used to be ideas worth spreading are, often, constrained by the language. Podcast by a non-native speaker is often skipped over, non-discriminatory, by both the native speakers and other non-native speakers. Our aim to develop a podcast application for the listeners who can listen the podcasts in their own 
+native language. Our podcast platform is sure to outpace the existing ones because it features translating the existing podcasts into the user-preferred language.
+
 ### 2.1 Customers
 
 Everyone. Anyone can use this application ranging from a kid to an old-age person.
