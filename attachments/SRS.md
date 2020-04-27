@@ -1,12 +1,16 @@
-### Introduction:
-This software requirements specification document lists sufficient and necessary requirements for the development of our project- “Multi-linguistic podcast platform”.
-To derive the requirements, the developers need to have a clear and thorough understanding of the products under development. This is achieved through detailed and continuous communications with the project team and customers throughout the software development process.
+# Project Plan: Multi-linguistic_Podcast_Platform
 
-### Overview:
-In numerous investigations, it has been discovered that audience members of podcasts create progressively distinctive pictures in their psyches and have elevated levels of passionate association in the story. Since audience members of podcasts are just tuning in to a story and not seeing it, it makes them need to utilize their creative mind and fabricate pictures of who and what they are tuning in to in their mind. Hence, their minds are more solid and clear than the individuals who do not tune in to podcasts. What comes in addition is the fact that the target audience is diverse and expects to avail this advancement in the language they speak/understand.
-That is what lead us to create such a platform where the podcasts will be available in all the popular languages, so that you can tune into your favorite one any time, on the go.
+## 1. Introduction
 
-------
+This document lays out a project plan for the development of “Multi-linguistic_Podcast_Platform” open source repository system by USoC2020 Organization. 
+
+The intended readers of this document are current and future developers working on “Multi-linguistic_Podcast_Platform” and the sponsors of the project. The plan will include, but is not restricted to, a summary of the system functionality, the scope of the project from the perspective of the “Multi-linguistic_Podcast_Platform” team, scheduling and delivery estimates, project risks and how those risks will be mitigated, the process by which I will develop the project, and metrics and measurements that will be recorded throughout the project.
+
+## 2. Overview
+
+Generally, the podcasts are available only in a single language, like the books used to be ideas worth spreading are, often, constrained by the language. Podcast by a non-native speaker is often skipped over, non-discriminatory, by both the native speakers and other non-native speakers. Our aim to develop a podcast application for the listeners who can listen the podcasts in their own 
+native language. Our podcast platform is sure to outpace the existing ones because it features translating the existing podcasts into the user-preferred language.
+
 ### 2.1 Customers
 
 Everyone. Anyone can use this application ranging from a kid to an old-age person.
